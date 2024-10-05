@@ -20,6 +20,30 @@ This project is designed to deploy infrastructure using Terraform with a focus o
 ### Load Balancers
 - **Public Load Balancer**: Distributes traffic to public-facing instances.
 - **Private Load Balancer**: Manages traffic within the private network.
+
+## VPC (Virtual Private Cloud)
+ 
+![VPC](screen/vpc.PNG)
+
+
+## load-balancer
+ 
+![load-balancer](screen/loadbalancer.PNG)
+
+![load-balancer](screen/loadbalancer2.PNG)
+
+
+## s3 (bucket)
+![s3](screen/s3.PNG)
+
+## dynamodb
+![dynamodb](screen/dynamodb.PNG)
+
+## terraform apply
+![console](screen/console.PNG)
+
+
+
  
 ## Key Features
 - **Modularity**: Reusable and maintainable code through the use of modules.
